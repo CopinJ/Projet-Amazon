@@ -16,23 +16,23 @@ Data Set <br/>
 <img src="https://i.imgur.com/glyUgWJ.png" height="80%" width="80%" alt="Data Set"/>
 <br />
 <br />
-Ranking by grade:  <br/>
+Ranking by score:  <br/>
 <img src="https://i.imgur.com/ASHnZr3.png" height="80%" width="80%" alt="Classement par note"/>
 <br />
 <br />
-Les produits les mieux notés: <br/>
+Products with the best scores: <br/>
 <img src="https://i.imgur.com/3SSAnV1.png" height="80%" width="80%" alt="Les produits les mieux notés"/>
 <br />
 <br />
-Creation d'une table:  <br/>
+Table creation:  <br/>
 <img src="https://i.imgur.com/EFcXNgN.png" height="80%" width="80%" alt="Creation d'une table"/>
 <br />
 <br />
-Classement par note moyenne:  <br/>
+Ranking by average score:  <br/>
 <img src="https://i.imgur.com/3CsLORa.png" height="80%" width="80%" alt="Classement par note moyenne"/>
 <br />
 <br />
-Nombre de commande par User:  <br/>
+Number of order by User:  <br/>
 <img src="https://i.imgur.com/UUYqOPO.png" height="80%" width="80%" alt="Nombre de commande par User"/>
 <br />
 <br />
