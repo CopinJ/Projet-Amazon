@@ -1,10 +1,10 @@
 <h1>Projet Amazon SQLite</h1>
 
 <h2>Description</h2>
-intéraction sur un Data Set des commandes Amazon en SQLite 
+Interaction on a Data Set of Amazon commands in SQLite.
 <br />
 
-<h2>Langages et Outils</h2>
+<h2>Languages and Tools</h2>
 
 - <b>SQLite</b> 
 - <b>Visual Studio Code</b>
@@ -16,7 +16,7 @@ Data Set <br/>
 <img src="https://i.imgur.com/glyUgWJ.png" height="80%" width="80%" alt="Data Set"/>
 <br />
 <br />
-Classement par note:  <br/>
+Ranking by grade:  <br/>
 <img src="https://i.imgur.com/ASHnZr3.png" height="80%" width="80%" alt="Classement par note"/>
 <br />
 <br />
